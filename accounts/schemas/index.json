@@ -57,7 +57,7 @@
                   "type": "object",
                   "properties": {
                     "error": {
-                      "$ref": "https://common-components.pstmn-beta.io/component/1a88ac3c-3146-4260-afc8-6f7d02b0cca1"
+                      "$ref": "https://component-library.pstmn-beta.io/component/1a88ac3c-3146-4260-afc8-6f7d02b0cca1"
                     },
                     "_trackId": {
                       "type": "string"
@@ -107,7 +107,7 @@
                   "type": "object",
                   "properties": {
                     "error": {
-                      "$ref": "https://common-components.pstmn-beta.io/component/1a88ac3c-3146-4260-afc8-6f7d02b0cca1"
+                      "$ref": "https://component-library.pstmn-beta.io/component/1a88ac3c-3146-4260-afc8-6f7d02b0cca1"
                     },
                     "_trackId": {
                       "type": "string"

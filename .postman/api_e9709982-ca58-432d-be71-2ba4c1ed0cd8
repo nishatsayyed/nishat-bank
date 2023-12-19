@@ -9,6 +9,7 @@ id = e9709982-ca58-432d-be71-2ba4c1ed0cd8
 
 [config.relations.collections]
 rootDirectory = accounts/collections
+files[] = {"id":"862718-963c85cf-1cc6-44a0-b360-3640cd8638b1","path":"should update.json","metaData":{"generateCollectionPreferences":"{\"requestNameSource\":\"Fallback\",\"indentCharacter\":\"Space\",\"parametersResolution\":\"Schema\",\"folderStrategy\":\"Paths\",\"includeAuthInfoInExample\":true,\"enableOptionalParameters\":true,\"keepImplicitHeaders\":false,\"includeDeprecated\":true,\"alwaysInheritAuthentication\":false,\"updateCollectionSync\":true,\"requestParametersResolution\":\"Schema\",\"exampleParametersResolution\":\"Schema\"}"}}
 
 [config.relations.collections.metaData]
 
